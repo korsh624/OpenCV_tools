@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="blinker" />
+          <option value="click" />
+          <option value="colorama" />
+          <option value="Flask" />
+          <option value="itsdangerous" />
+          <option value="Jinja2" />
+          <option value="MarkupSafe" />
+          <option value="mysql-connector-python" />
+          <option value="Werkzeug" />
+          <option value="catboost" />
+          <option value="dlib" />
+          <option value="gast" />
+          <option value="h5py" />
+          <option value="imutils" />
+          <option value="keras" />
+          <option value="Keras-Preprocessing" />
+          <option value="matplotlib" />
+          <option value="scikit-image" />
+          <option value="scikit-learn" />
+          <option value="scipy" />
+          <option value="tensorflow-cpu" />
+          <option value="torch" />
+          <option value="torchaudio" />
+          <option value="torchvision" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

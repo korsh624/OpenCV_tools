@@ -1,8 +1,8 @@
 import cv2
 
 # Загружаем изображение
-image = cv2.imread("ex/8tecUX-fv6-aIv-wcR6UM.jpg")
-# image=cv2.resize(image,(640,480))
+image = cv2.imread("ex/1udmIx-dht-LXe-FUR96N.jpg")
+image=cv2.resize(image,(1280,1024))
 
 # Проверяем, загрузилось ли изображение
 if image is None:

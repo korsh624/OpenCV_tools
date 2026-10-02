@@ -8,8 +8,8 @@ from collections import defaultdict
 # НАСТРОЙКИ
 # =========================
 
-SOURCE_DIR = "frames"       # здесь лежат JPG + JSON от Labelme
-DATASET_DIR = "dataset"     # сюда создадим готовый YOLO-датасет
+SOURCE_DIR = "ex/frames"       # здесь лежат JPG + JSON от Labelme
+DATASET_DIR = "ex/dataset"     # сюда создадим готовый YOLO-датасет
 
 TRAIN_RATIO = 0.9           # 80% train, 20% val
 RANDOM_SEED = 42

@@ -2,8 +2,8 @@ import cv2
 import os
 
 
-VIDEO_PATH = "res/inputvideo2.mp4"      # исходное видео
-OUTPUT_DIR = "frames"         # папка для кадров
+VIDEO_PATH = "ex/Pins.mp4"      # исходное видео
+OUTPUT_DIR = "ex/frames"         # папка для кадров
 
 SAVE_FPS = 2                # сколько кадров в секунду сохранять
 

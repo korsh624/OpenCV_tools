@@ -10,3 +10,13 @@ road_threshold.py - программа подбора порога бинари�
 videoToFHoto.py - программа для разбиения видеофрагмента на кадры с заданным FPS
 
 mousePixelDetect.py - получаем координаты и цвет пикселя в RGB
+
+videotocadrs.py - разбиваем видео на кадры с заданным FPS
+
+yolov8n.pt yolo11n.pt - предобученная модель YOLO для обучения
+
+trainModel.py - Обучение модели yolo11n.pt  через Ultralytics
+
+frames2yolo.py создание датасета для обучения модели yolo11n.pt  через Ultralytics на основе размеченных кадров через lableme
+
+detect.py - детектируем объекты с применением весов (результатов обучения)
